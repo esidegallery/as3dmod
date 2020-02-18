@@ -1,2 +1,2 @@
 # as3dmod
-Updated for Away3D 4.1
+This is an updated version of AS3DMod, updated (by an unknown developer) for Away 3D 4.1.
